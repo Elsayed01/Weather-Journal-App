@@ -21,4 +21,4 @@ provided on the openweathermap website by async function
 7 - alert messages in case the Zipcode inserted is wrong or not valid and also in case the client clicked on the button without inserting the Zipcode at all
 
 ## author 
-Elsayed Ahmed Mohamed
+Elsayed Mersal
